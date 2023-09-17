@@ -59,7 +59,7 @@ In this assignment, the objective is to develop a Django project titled "Post Ma
 
 * Install PyYAML :
 
-        $pip install pyyaml
+        $ pip install pyyaml
 
 * Install uritemplate:
 

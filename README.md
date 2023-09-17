@@ -79,7 +79,7 @@ In this assignment, the objective is to develop a Django project titled "Post Ma
         $ http://http//127.0.0.1:8000/api_schema
 
 * API docs will now be found at:
-        $ http://127.0.0.1:8000/docs/
+         http://127.0.0.1:8000/docs/
 
 
 ### Postman Collection:
